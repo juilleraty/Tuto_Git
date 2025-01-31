@@ -1,0 +1,6 @@
+total 16
+drwxr-xr-x 3 edu-juilleraty edu-juilleraty 4096 Jan 31 14:46 ./
+drwxr-x--- 8 edu-juilleraty edu-juilleraty 4096 Jan 31 14:42 ../
+drwxr-xr-x 8 edu-juilleraty edu-juilleraty 4096 Jan 31 14:44 .git/
+-rw-r--r-- 1 edu-juilleraty edu-juilleraty    0 Jan 31 14:46 FileList.txt
+-rw-r--r-- 1 edu-juilleraty edu-juilleraty   10 Jan 31 14:42 README.md
